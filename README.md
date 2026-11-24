@@ -15,7 +15,7 @@ Works with Fathom, Gong, Chorus, Fireflies, Zoom, Google Meet, Avoma, Nooks and 
 
 12 habits that win demos, including:
 
-- Upfront contract in the first 2 minutes
+- Setting time and agenda expectations up front
 - Qualifying fit before demoing
 - Discovery before sharing your screen
 - Pricing the pain in dollars
